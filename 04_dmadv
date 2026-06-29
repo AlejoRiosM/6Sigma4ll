@@ -1,1 +1,268 @@
+# DMADV
 
+DMADV is the Six Sigma method used when a team needs to design a new process, product, or service instead of improving an existing one.
+
+The name DMADV stands for:
+- Define
+- Measure
+- Analyze
+- Design
+- Verify
+
+DMADV is closely related to DMAIC, but the goal is different. DMAIC is for improving a process that already exists. DMADV is for situations where the current process is not the right answer anymore, or where the business needs something new.
+
+This can happen when:
+- A new product must be created.
+- A new service must be launched.
+- An existing process needs a full redesign.
+- The old process cannot realistically be improved enough.
+- Business goals have changed.
+- The customer need is new or different.
+
+---
+
+## Why DMADV matters
+
+DMADV is important because not every problem can be solved by fixing the old process.
+
+Sometimes the process is too weak, too outdated, too expensive, or too badly structured to be saved by small changes. In that case, the team needs to design something better from the beginning.
+
+That is what makes DMADV different from DMAIC: instead of asking, “How do we fix this process?” the team asks, “What should the new process look like?”
+
+This is a much bigger question, and that makes DMADV more demanding in planning, testing, and execution.
+
+---
+
+## DMADV and complexity
+
+DMADV is often used for more ambitious or more complex work than a simple improvement project.
+
+A redesign project may involve:
+- New technology.
+- New workflows.
+- New customer requirements.
+- New infrastructure.
+- New staff training.
+- New vendor relationships.
+- Longer timelines.
+- More testing before release.
+
+Because of that, DMADV usually needs more careful planning than a normal improvement project. The team cannot assume the old process will help them. Instead, they must define what success should look like before they build anything.
+
+That is why the first three phases are so important: they create the foundation for the new design.
+
+---
+
+## Define
+
+The Define phase in DMADV is where the team identifies the need for a new design and clarifies the requirements.
+
+This phase is similar to DMAIC Define, but it is usually more focused on future needs than on fixing a current defect.
+
+In DMADV Define, the team may:
+- Identify the business need.
+- Define customer requirements.
+- Clarify project goals.
+- Establish scope.
+- Understand constraints.
+- Review compliance or change-management requirements.
+- Build a project charter.
+
+### Why Define is important in DMADV
+
+If the team does not define the need clearly, it may design the wrong solution.
+
+That is especially dangerous in DMADV because the team is not just adjusting an existing process. It is building something new that may require significant time and investment.
+
+The Define phase helps answer:
+- What does the customer need?
+- What must the new process or product accomplish?
+- What are the success criteria?
+- What boundaries does the project have?
+
+The better the definition, the less likely the team is to waste time designing the wrong thing.
+
+---
+
+## Measure
+
+The Measure phase in DMADV is about understanding what the new process must achieve.
+
+In DMAIC, Measure is often about capturing current performance. In DMADV, Measure is more about establishing customer requirements, performance needs, and critical-to-quality expectations.
+
+The team may need to measure:
+- Customer expectations.
+- Performance benchmarks.
+- Required output levels.
+- Process constraints.
+- Quality targets.
+- External standards.
+
+### Why Measure is important in DMADV
+
+A new process should not be designed in a vacuum.
+
+The team needs a clear understanding of what the final design must do, or it may build something technically interesting but not useful. Measure helps the team create the criteria that the design must satisfy.
+
+This is especially important when the project involves a product or service that does not yet exist. Without measurement, the team would have no way to know whether the design is actually good.
+
+---
+
+## Analyze
+
+The Analyze phase in DMADV is where the team studies options, requirements, and possible design directions.
+
+In DMAIC, Analyze focuses on root causes in an existing process. In DMADV, Analyze is often more forward-looking. The team may still study cause and effect, but it is also looking for the best design principles, best practices, and benchmark conditions that should guide the new solution.
+
+The team may:
+- Identify value-added and non-value-added activities.
+- Compare design options.
+- Study best practices.
+- Review benchmarks.
+- Examine bottlenecks or risks.
+- Narrow the design requirements.
+
+### Why Analyze is important in DMADV
+
+The team needs to make sure the new design is based on evidence, not guesswork.
+
+A strong Analyze phase reduces the chance that the team will create a design that looks good on paper but fails in practice. It also helps the team understand which features really matter and which ones are optional.
+
+This phase often shapes the entire design strategy.
+
+---
+
+## Design
+
+The Design phase is where DMADV becomes clearly different from DMAIC.
+
+This is the phase where the team actually creates the new process, product, or service.
+
+The team may:
+- Build workflow maps.
+- Create prototypes.
+- Develop software or tools.
+- Draft operating procedures.
+- Plan training.
+- Set up technology or systems.
+- Work with vendors or internal departments.
+- Test design alternatives.
+
+### Why Design is the most critical phase
+
+The Design phase is often the most important part of DMADV because it turns the project from planning into reality.
+
+If the design is weak, the earlier work is wasted. A poorly designed process can be expensive, slow, confusing, or impossible to maintain. That is why the team must be careful not to rush this step.
+
+This phase is also where project fatigue can become a problem, especially if the work has taken a long time already. The team may want to finish quickly, but a rushed design usually creates future problems.
+
+A good DMADV design is not just creative. It is practical, testable, and aligned with the customer need.
+
+---
+
+## Verify
+
+The Verify phase is where the team confirms that the new process or product actually works.
+
+This phase is similar to the Control phase in DMAIC, but it is focused on making sure the new design is valid before full handoff.
+
+The team may:
+- Test the new process.
+- Run pilot versions.
+- Collect feedback.
+- Check quality results.
+- Confirm the process meets customer requirements.
+- Finalize control plans.
+- Transition ownership to the process owner.
+
+### Why Verify matters
+
+A new process may look good in design but still fail in actual use.
+
+Verify protects the organization from releasing a weak solution too early. It also helps the team confirm that the new process performs the way the customer and business expected.
+
+This phase may also uncover new quality requirements. A redesigned process can sometimes create new strengths the original process never had, and those strengths may become new critical-to-quality factors.
+
+---
+
+## How DMADV differs from DMAIC
+
+The biggest difference is the kind of problem being solved.
+
+| Feature        | DMAIC                       | DMADV                                           |
+|----------------|-----------------------------|-------------------------------------------------|
+| Main goal      | Improve an existing process | Design a new process or product                 |
+| Starting point | Process already exists      | Process may not exist yet, or needs replacement |
+| Main focus     | Fix defects and variation   | Build the right design from the beginning       |
+| Final phase    | Control                     | Verify                                          |
+| Best for       | Process improvement         | Redesign, new products, new services            |
+
+DMAIC is about making an existing system better.  
+DMADV is about creating a better system when the old one is not enough.
+
+---
+
+## When to use DMADV
+
+DMADV is a better choice when:
+- A company wants to launch a new product.
+- A company needs a new service.
+- The current process must be replaced.
+- The business goal has changed.
+- The existing process cannot be improved enough.
+- A redesign is more practical than an adjustment.
+
+A simple improvement problem is usually DMAIC. A redesign problem is usually DMADV.
+
+---
+
+## Example of DMADV
+
+Imagine a company wants to build a new app for scheduling appointments.
+
+This is not just a process improvement. It is the creation of a new digital solution. The team must define what users need, measure expectations, analyze design options, design the app, and verify that it works before rolling it out.
+
+That is a DMADV project.
+
+Now imagine a doctor’s office already has an appointment system, but patients keep complaining about confusion, errors, and missed appointments. That is more likely a DMAIC project because the process already exists and needs improvement.
+
+---
+
+## Why DMADV is harder than it looks
+
+DMADV may sound simpler because it is about creating something new, but it is often more difficult in practice.
+
+That is because the team must:
+- Predict customer needs before the final solution exists.
+- Make decisions with incomplete information.
+- Design for future use.
+- Avoid expensive mistakes.
+- Test carefully before rollout.
+- Coordinate many people and systems.
+
+The team also has to accept that design work can take a long time. Some DMADV projects finish in months, but others may take much longer depending on scope, complexity, and risk.
+
+---
+
+## Handoff and ownership
+
+At the end of DMADV, the new process or product is handed over to the process owner.
+
+That handoff is important because the project team does not usually stay involved forever. The process owner must have the tools, documentation, and support needed to keep the new solution working in daily operations.
+
+A strong handoff includes:
+- Control or verify documentation.
+- Training.
+- Final specifications.
+- Feedback from testing.
+- Ongoing monitoring plans.
+
+This is what makes DMADV complete: not just a good design, but a usable design that can live in the real world.
+
+---
+
+## Final idea
+
+DMADV is the Six Sigma path for building something new or replacing something that no longer works.
+
+It is more about design than repair, more about requirements than defects, and more about future performance than current performance. Because of that, it requires careful thinking, clear goals, and strong verification before the new solution is released.
