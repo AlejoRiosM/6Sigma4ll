@@ -1,1 +1,234 @@
+# Six Sigma Belts and Roles
 
+Six Sigma uses belt colors to show different levels of knowledge, responsibility, and involvement in improvement work.
+
+The belt system is important because Six Sigma projects are not all the same. Some problems are small and local. Other problems are large, expensive, and connected to many parts of the organization. The bigger and more complicated the problem is, the more experience, data, and leadership support the team usually needs.
+
+A Six Sigma project is not just a random task or a quick fix. It is a structured effort to understand a process, measure what is happening, identify what causes the problem, and then improve the process in a controlled way. That is why the roles in a Six Sigma team matter so much.
+
+---
+
+## Why belt levels matter
+
+The belt system helps an organization assign the right people to the right problems.
+
+A White Belt may only need to understand the basic idea of Six Sigma. A Yellow Belt may help with data collection or simple support tasks. A Green Belt may help analyze the problem and support the project work. A Black Belt usually leads the project. A Master Black Belt helps guide the most difficult work and trains others.
+
+This difference matters because not every problem requires the same level of expertise.
+
+- A small process issue might need a simple team with basic data collection.
+- A medium problem might need a Green Belt and a process owner.
+- A complicated project with many causes, many departments, or high business risk usually needs a Black Belt or Master Black Belt.
+
+The more complex the problem is, the more important it becomes to use the correct belt level and the correct team structure.
+
+---
+
+## White Belt
+
+A White Belt is the entry level.
+
+This level gives a basic introduction to Six Sigma, so the person can understand the language of improvement work, follow discussions in meetings, and see why teams use data instead of guesswork.
+
+White Belts are usually not leading projects and are not expected to solve advanced process problems. Their role is mostly awareness. They help create a Six Sigma culture by understanding the purpose of improvement work.
+
+A White Belt is useful when an organization wants many employees to understand the basics without turning everyone into a technical expert.
+
+---
+
+## Yellow Belt
+
+A Yellow Belt has a little more depth than a White Belt, but it is still an introductory level.
+
+Yellow Belts usually learn:
+- Basic Six Sigma ideas.
+- The meaning of variation and defects.
+- Simple quality tools.
+- How teams collect and interpret basic data.
+- The language of hypothesis testing.
+- The general flow of DMAIC.
+
+Yellow Belts are important because they help the organization connect everyday work to process improvement. They may not run a project by themselves, but they can support the project team, understand the problem, and take part in meetings more effectively.
+
+This level is especially useful when the process problem is not yet very complex, but the organization still needs people who understand the basics of structured improvement.
+
+---
+
+## Green Belt
+
+A Green Belt works more directly with real improvement projects.
+
+Green Belts are often the people who help collect data, analyze simple patterns, support the Black Belt, and work on specific parts of the project. In some organizations, Green Belts may lead smaller projects, but usually they work under the guidance of a Black Belt.
+
+Green Belts need more technical skill than Yellow Belts because they are expected to understand the process in more detail. They often help with:
+- Data analysis.
+- Root cause investigation.
+- Team support.
+- Basic statistics.
+- Process documentation.
+- Improvement tasks inside the DMAIC phases.
+
+Green Belts are often called the “worker bees” of Six Sigma because they handle much of the practical project work. That does not mean their role is small. It means they are often the people who spend the most time doing the hands-on analysis that moves the project forward.
+
+For moderate problems, a Green Belt may be enough. For larger or more strategic problems, a Green Belt is usually not enough on their own.
+
+---
+
+## Black Belt
+
+A Black Belt is usually the project leader.
+
+This role is much more advanced. Black Belts are responsible for guiding the project from start to finish, making sure the team stays focused, and using the right tools to solve the problem correctly.
+
+A Black Belt should understand:
+- Advanced project management.
+- Process mapping.
+- Team leadership.
+- Statistics.
+- Root cause analysis.
+- Control methods.
+- How to design and test improvements.
+
+Black Belts are needed when the problem is more complex, the data is more difficult, the process has many moving parts, or the organization wants a solution that will hold up under real business pressure.
+
+A Black Belt does not just “fix” the problem. The Black Belt helps the team define the problem correctly, measure it correctly, analyze it carefully, improve it in a controlled way, and make sure the gains stay in place.
+
+That is why Black Belt work is closer to project leadership than to simple support work.
+
+---
+
+## Master Black Belt
+
+A Master Black Belt is the highest technical level in Six Sigma.
+
+This role is less about doing one project and more about helping many projects succeed. Master Black Belts usually guide Black Belts, train others, help with difficult statistics, and support the organization when a problem is too complex for a regular team to handle comfortably.
+
+This role matters especially when:
+- The problem is broad and strategic.
+- Several departments are involved.
+- The data is complicated.
+- The statistical analysis is difficult.
+- The organization wants to build long-term Six Sigma capability.
+
+A Master Black Belt often acts like a coach, advisor, and technical expert at the same time.
+
+---
+
+## Sponsor and Champion
+
+A Sponsor or Champion is a senior leader who supports the project.
+
+This role is not about daily analysis. It is about leadership, resources, and direction.
+
+Sponsors and Champions help:
+- Set the business purpose of the project.
+- Make sure the work matches company goals.
+- Remove roadblocks.
+- Provide funding, time, and support.
+- Keep the project moving when political or organizational problems appear.
+- Review progress and results.
+
+This role becomes more important when the problem is costly, visible, or difficult to solve because big problems often need authority that the project team itself does not have.
+
+Without sponsor support, even a good project can fail because the team may not have enough time, access, or influence to finish the work.
+
+---
+
+## Process Owner
+
+The Process Owner is the person responsible for the process being improved.
+
+This is one of the most important roles in the team because the process owner will usually inherit the solution once the project is finished.
+
+The Process Owner needs to understand:
+- How the process works now.
+- What customers need.
+- What the business expects.
+- What controls will be needed after improvement.
+- How to keep the process stable after the team leaves.
+
+The process owner is often the person who will have to maintain the new process in real life, so this role is essential for making sure the solution lasts.
+
+In many projects, the process owner is also a process expert, but not always. Some process owners know the business side very well but are not close enough to the day-to-day work to know every detail.
+
+---
+
+## Process Expert
+
+A Process Expert knows the process deeply.
+
+This person may understand the actual work, the hidden difficulties, the practical shortcuts people use, and the real causes of delay or defects. That makes the process expert valuable because a process can look good on paper but still behave very differently in practice.
+
+A process expert helps the team understand:
+- How the work is really done.
+- Where variation appears.
+- Which steps matter most.
+- What constraints exist in the real environment.
+- Which ideas are realistic and which are not.
+
+For complex problems, a process expert is especially important because complicated work often has details that only someone close to the process will recognize.
+
+---
+
+## Team member types
+
+Six Sigma teams are usually built with different kinds of members depending on the work needed.
+
+### Regular team members
+These people are part of the core team. They attend most meetings and stay involved through the project.
+
+### Ad hoc team members
+These people join when specific expertise is needed. They may not be involved every day, but they are important when the team needs a specialist.
+
+### Resource team members
+These people support the team when needed, often from departments like accounting, compliance, HR, IT, or legal.
+
+This structure matters because many problems are cross-functional. A process problem may involve systems, people, data, budgets, and policy. The team has to reflect that complexity.
+
+---
+
+## Problem complexity
+
+Not every Six Sigma problem is equal.
+
+Some problems are simple and visible. For example, a process may have a clear defect, clear data, and only one main cause. In that case, a smaller team may be enough.
+
+Other problems are much more difficult. They may involve:
+- Multiple departments.
+- Missing or poor-quality data.
+- Confusing symptoms.
+- Competing opinions.
+- Political resistance.
+- High cost if the solution fails.
+- A process that may need redesign instead of simple improvement.
+
+When the problem is more complex, the team needs more experience and stronger leadership. That is why belt level and role selection matter so much. A complex problem cannot usually be solved well by a beginner team working without guidance.
+
+Six Sigma works best when the team matches the size and difficulty of the problem.
+
+---
+
+## Simple comparison
+
+| Level | Main focus | Typical role in projects |
+|---|---|---|
+| White Belt | Awareness | Understands the basics |
+| Yellow Belt | Introductory support | Helps with basic tools and data |
+| Green Belt | Practical project support | Works on data, analysis, and improvement tasks |
+| Black Belt | Project leadership | Leads medium to complex projects |
+| Master Black Belt | Expert guidance | Trains, coaches, and supports difficult work |
+
+This table shows the real difference between the belts: the higher the belt, the more the person is expected to handle complexity, leadership, and technical judgment.
+
+---
+
+## Why the distinction matters
+
+The belt system is useful because Six Sigma is not just about knowing the definition. It is about solving problems at the right depth.
+
+If the problem is simple, using too much structure can waste time.  
+If the problem is complex, using too little expertise can cause failure.
+
+That is why Six Sigma teams need the right mix of belts, leaders, and process experts. The goal is not to collect titles. The goal is to match skill to problem complexity so the team can produce a solution that is realistic, measurable, and sustainable.
+
+In short, Six Sigma roles exist to make sure the right people handle the right level of difficulty.
