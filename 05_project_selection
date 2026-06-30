@@ -1,1 +1,254 @@
+# Project Selection
 
+Choosing the right project is one of the most important decisions a Six Sigma team makes.
+
+A well-chosen project has a real problem, real data, real business impact, and a realistic chance of being completed and implemented successfully. A poorly chosen project wastes resources, burns out team members, and delivers little to no value.
+
+This file explains how Six Sigma teams identify, filter, and prioritize projects before any improvement work begins.
+
+---
+
+## Why project selection matters
+
+Not every problem is a Six Sigma problem.
+
+Six Sigma is a structured, data-driven methodology. It works best when a problem is real, measurable, complex enough to require investigation, and not already solved. If a team chooses the wrong project, they may spend months working on something that did not need Six Sigma at all, or on something that cannot realistically be improved with the tools available.
+
+Selecting the right project before starting saves time, money, and effort for the entire organization.
+
+---
+
+## Where project ideas come from
+
+Project ideas in Six Sigma usually come from one or more of the following sources:
+
+- Customer complaints or feedback
+- Internal quality data
+- Financial performance reports
+- Employee observations
+- Audit findings
+- Leadership priorities
+- Benchmarking against competitors
+- Pareto charts showing where most defects or problems are concentrated
+
+Organizations that take Six Sigma seriously usually have a process for collecting and reviewing improvement ideas on a regular basis. Leadership, Black Belts, Green Belts, process owners, and departmental managers all contribute project ideas.
+
+Departmental staff can also identify opportunities without needing a full brainstorming process, especially if they are close to the process and already have data available. In those cases, tools like Pareto charts can help them identify and communicate areas where improvement would produce results.
+
+---
+
+## Step 1: Generate a list of potential projects
+
+The first step is to collect as many project ideas as possible.
+
+Teams and organizational leaders use brainstorming to build a list of potential projects. At this stage, no idea is eliminated. The goal is to gather a wide pool of possibilities so nothing important is missed.
+
+Brainstorming sessions may involve:
+- Black Belts and Green Belts
+- Process owners
+- Departmental managers
+- Executive sponsors
+- Subject matter experts
+
+The list produced in this step may be long. That is acceptable. The filtering work comes later.
+
+---
+
+## Step 2: Remove ideas that do not fit Six Sigma
+
+Once a list is built, the team removes any ideas that are not appropriate for a Six Sigma approach.
+
+Six Sigma works for problems that:
+- Are real and measurable.
+- Do not yet have a known solution.
+- Require investigation and data analysis.
+- Are complex enough to justify the time and resources of a project.
+
+If a problem already has an obvious solution, it does not need Six Sigma. For example, if a machine is broken and needs to be replaced, that is a maintenance decision, not a Six Sigma project. A team should not run through the full DMAIC methodology for a problem that can be fixed with a simple action.
+
+At this stage, the team removes those obvious fixes from the list and keeps only the problems that genuinely need structured investigation.
+
+---
+
+## Step 3: Apply business criteria
+
+After removing ideas that do not fit Six Sigma, the team creates and applies business criteria to further filter the list.
+
+Business criteria help the team understand which projects would deliver the most value to the organization.
+
+Common business criteria questions include:
+- How will the improvement impact revenue, profit, or income?
+- What savings will the improvement create?
+- Is this problem getting worse over time, or is it stable?
+- How much will the project cost to run?
+- How many employee hours will the project require?
+- What resources are needed?
+- What is the expected benefit to the customer?
+
+These questions help the team move from a long list of possibilities to a shorter list of strong candidates.
+
+---
+
+## Step 4: Prioritize using a selection matrix
+
+Once business criteria are defined, the team uses a selection matrix to compare and rank projects.
+
+A selection matrix is a simple table where each project is scored against each business criterion using a numeric scale. The PDF example uses a scale from 1 to 10, where 1 is the most negative outcome and 10 is the most positive.
+
+### Example selection matrix
+
+| Criterion           | Project 1 | Project 2 | Project 3 |
+|---------------------|-----------|-----------|-----------|
+| Potential savings   | 1         | 5         | 10        |
+| Potential cost      | 8         | 5         | 2         |
+| Revenue increase    | 9         | 4         | 2         |
+| Access to resources | 10        | 6         | 2         |
+| **Total**           | **28**    | **20**    | **16**    |
+
+In this example, Project 1 has a low savings expectation but also a low cost, a high potential to increase revenue, and easy access to the resources required. Project 3 has high expected savings but scores poorly in every other category.
+
+The team adds up the scores and ranks projects from highest to lowest. Projects at the top of the list are selected first.
+
+One important note: the numbers in the matrix do not represent real dollar amounts. They represent how positive or negative each outcome is expected to be. A higher score for costs means the project is expected to cost less, not more.
+
+---
+
+## Step 5: Use the 15-point project viability model
+
+The selection matrix in the previous step is useful but relies entirely on business criteria chosen by the team. The 15-point project viability model provides a more structured and weighted alternative.
+
+This model uses 15 specific criteria to assess whether a project is truly viable for a DMAIC approach. Each criterion is also given a weight, which allows the team to make some factors more important than others. This removes some of the subjectivity from the process.
+
+### The 15 criteria
+
+| # | Criterion                          | Why it matters |
+|----|------------------------------------|----------------|
+| 1  | **Sponsorship**                    | A high-level sponsor increases access to funding and resources. Projects without strong sponsorship often stall.                                                                                             |
+| 2  | **Corporate alignment**            | The project must align with business goals. Projects that do not support the direction of the organization reduce business effectiveness.                                                                    |
+| 3  | **Data**                           | Data must be available or accessible. Without data, the Six Sigma methodology cannot be applied. If data is too expensive or time-consuming to collect, the project is usually not the right choice.         |
+| 4  | **Definition of defect**           | A specific and well-defined defect or problem must exist. Without this, the project risks growing beyond its intended scope.                                                                                 |
+| 5  | **Stability**                      | The process must be stable and unlikely to be overhauled soon. It makes no sense to improve a process that will be replaced or completely redesigned in the near future.                                     |
+| 6  | **Customer**                       | The project should create a meaningful and positive impact on customer satisfaction or perception of quality.                                                                                                |
+| 7  | **Benefits**                       | The project must have a strong cost-benefit ratio. The expected benefits should clearly outweigh the expected costs.                                                                                         |
+| 8  | **Timeline**                       | The project should be completable in a reasonable timeframe. Most Six Sigma improvement projects take around six months. Projects that are too long become harder to manage and less likely to succeed.      |
+| 9  | **Solution**                       | The solution should not already be known or obvious. If the fix is already clear, a full Six Sigma project is not needed.                                                                                    |
+| 10 | **Implementation is likely**      | A solution found through the project should realistically be implemented. If change is very unlikely in the process for political or structural reasons, running a project wastes resources.                 |
+| 11 | **Required investment**           | The project should not require a very large cash investment. The larger the capital required, the less likely the project will be approved or the solution implemented.                                      |
+| 12 | **Available Six Sigma resources** | The Black Belts and Green Belts needed for the project must actually be available. A project that requires expertise that is not accessible will be blocked from the start.                                  |
+| 13 | **Inputs can be controlled**      | At least some of the inputs in the process must be within the control of the team or the organization. If all inputs are controlled by an outside vendor or external force, improvement may not be possible. |
+| 14 | **Redesign not needed**           | The process can be improved as it exists today. If a full redesign is required, DMADV is a better approach than DMAIC.                                                                                       |
+| 15 | **Process quality is maintained** | The improvement should not negatively affect the quality of other products or services along the value chain.                                                                                                |
+
+---
+
+## How to score the 15-point model
+
+Once the criteria are defined, the team builds a grid and goes through each question.
+
+### Step 1: Assign weights
+
+Each criterion is weighted from 1 to 5:
+- 1 = least important
+- 5 = most important
+
+The team assigns weights based on the specific project and organizational context. Two teams at different companies may weight the same criteria differently depending on what matters most to their business.
+
+### Step 2: Answer each question
+
+For each criterion, the team marks a position on a scale with five levels:
+- No (1)
+- Mostly No (2)
+- Possibly (3)
+- Mostly Yes (4)
+- Yes (5)
+
+### Step 3: Convert weights
+
+Each weight is divided by 3 to create a conversion factor. This is used to calculate the weighted value for each answer.
+
+Examples:
+- A weight of 3 becomes 3 ÷ 3 = 1.0
+- A weight of 5 becomes 5 ÷ 3 = 1.7
+- A weight of 4 becomes 4 ÷ 3 = 1.3
+- A weight of 1 becomes 1 ÷ 3 = 0.3
+
+### Step 4: Sum each column
+
+After all values are converted, the team adds up the values in each of the five answer columns (No through Yes).
+
+### Step 5: Multiply by column numbers
+
+Each column sum is multiplied by the column number it belongs to:
+- No column sum × 1
+- Mostly No column sum × 2
+- Possibly column sum × 3
+- Mostly Yes column sum × 4
+- Yes column sum × 5
+
+### Step 6: Add all results
+
+The five results from step five are added together to produce a single total score.
+
+### Step 7: Divide by the sum of weighted totals
+
+The total score from step six is divided by the sum of all weighted conversion values. This produces the final project score.
+
+---
+
+## Interpreting the score
+
+| Score      | DMAIC Viability                               |
+|------------|-----------------------------------------------|
+| Below 2.0  | Not viable for DMAIC                          |
+| 2.0 to 3.0 | Possibly viable, but needs further validation |
+| Above 3.0  | A viable DMAIC project                        |
+
+A score above 3.0 means the project is a strong candidate for DMAIC. A score below 2.0 means the project should not be pursued with DMAIC, though it may still be appropriate for DMADV if a redesign is involved.
+
+This model cannot tell a team whether a project needs DMADV. It only evaluates DMAIC viability.
+
+---
+
+## What happens after scoring
+
+Once projects are scored, the team compares results and selects the strongest candidates for immediate work.
+
+Projects at the top of the ranked list are started first. Projects in the middle may be revisited when resources become available. Projects at the bottom may be rejected or placed on hold.
+
+This process ensures that the organization is always working on the improvements most likely to succeed and deliver real value.
+
+---
+
+## Departmental project selection
+
+Not all project selection happens at the enterprise level.
+
+Departmental leaders who are familiar with Six Sigma may identify improvement opportunities within their own area and either run small projects independently or present ideas to organizational leadership.
+
+In departments where leaders are Green Belts or Black Belts themselves, smaller improvement projects can be run with minimal resources, especially when they require little capital or external involvement.
+
+In these cases, Pareto charts are commonly used to show where most of the problems are concentrated, helping teams identify which area would benefit most from attention before running the full viability model.
+
+---
+
+## Common reasons a project fails before it starts
+
+Picking the wrong project is one of the most common causes of Six Sigma failure. Projects often fail from the start because:
+
+- The problem was already solved and just needed execution.
+- There was no access to data.
+- Leadership did not support the project.
+- The process was about to be replaced anyway.
+- The team lacked the necessary Six Sigma expertise.
+- The project was too large or complex for the available timeframe.
+- No clear definition of success was agreed upon.
+
+Using the selection matrix and the 15-point viability model before starting protects teams from investing time and energy into projects that were never going to succeed.
+
+---
+
+## Final idea
+
+Project selection is not about choosing a problem that feels important.
+
+It is about choosing a problem that is real, measurable, supported by data, aligned with business goals, and realistic enough to complete and implement within a reasonable time. A project chosen carefully is already partially successful before the first meeting begins.
