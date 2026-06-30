@@ -1,1 +1,349 @@
+# Hypothesis Testing Roadmap
 
+Hypothesis testing is the part of Six Sigma where a team moves from observation to evidence-based decision-making. It helps determine whether a difference, change, or relationship seen in the data is real enough to act on, or whether it is likely the result of normal process variation.
+
+In Six Sigma, this matters because teams do not improve processes by reacting to every visible difference. They improve processes by identifying differences that are statistically meaningful and relevant to the business.
+
+---
+
+## Why hypothesis testing matters
+
+At first glance, one result may look higher, lower, faster, slower, or better than another. But a visible difference is not always a statistically significant difference.
+
+For example, a process average may rise from 168 to 175. That seems better. However, the team still needs to ask a more important question: is the improvement large enough, and reliable enough, that it is unlikely to be due to chance alone?
+
+Hypothesis testing provides a disciplined way to answer that question.
+
+It is useful because it helps teams:
+
+- Avoid making decisions based on random variation.
+- Test whether suspected root causes are truly linked to a problem.
+- Validate whether process changes created real improvement.
+- Support recommendations with evidence instead of intuition.
+
+---
+
+## Where hypothesis testing fits in DMAIC
+
+Hypothesis testing is most commonly used in the later stages of DMAIC, especially in the Analyze and Improve phases.
+
+In the Analyze phase, the team uses hypothesis testing to examine possible causes of poor performance. For example, a team may want to know whether one supplier, one shift, one machine, or one employee group is associated with a higher defect rate.
+
+In the Improve phase, the team uses hypothesis testing to verify whether a proposed solution actually changed the process. For example, after changing a setup method, the team may test whether cycle time has been reduced or whether defect rates have fallen.
+
+This means hypothesis testing is not a stand-alone math topic. It is a practical decision tool used to confirm whether the process is behaving differently in a meaningful way.
+
+---
+
+## Start with the business question
+
+Every good hypothesis test begins with a business question.
+
+The team should first describe the real-world problem in plain language. Only after that should it decide which statistical test to use.
+
+Examples of business questions include:
+
+- Is the failure rate in this classroom higher than the school average?
+- Did the seeding change increase crop yield?
+- Does Team A take longer than Team B to complete the same task?
+- Is the median number of bedrooms in this neighborhood greater than 3?
+- Did the process change reduce variation?
+
+Starting with the business question keeps the analysis focused and makes the final conclusion easier to explain.
+
+---
+
+## The logic of a hypothesis test
+
+Every hypothesis test compares two competing statements.
+
+### Null hypothesis
+
+The null hypothesis states that there is no difference, no effect, or no change.
+
+This is the default assumption. It is the position that the process has not changed and that any observed difference is just random variation.
+
+Examples:
+
+- There is no difference in the average time taken by Team A and Team B.
+- There is no difference in the failure rate of one group compared with another.
+- There is no difference in yield after the process change.
+
+### Alternative hypothesis
+
+The alternative hypothesis states that a difference, effect, or change does exist.
+
+This is the statement the team is trying to support if the data provides strong enough evidence.
+
+Examples:
+
+- Team A takes longer on average than Team B.
+- The failure rate in one classroom is higher than the school average.
+- The process change increased average yield.
+- The process change reduced variation.
+
+### Direction of the alternative hypothesis
+
+The alternative hypothesis can be written in three common ways:
+
+- Not equal to.
+- Greater than.
+- Less than.
+
+The correct direction depends on the question being asked.
+
+If the team only wants to know whether a difference exists, it uses a two-sided alternative such as "not equal to." If the team wants to know whether performance specifically increased or decreased, it uses a one-sided alternative such as "greater than" or "less than."
+
+---
+
+## The standard roadmap
+
+A Six Sigma team can follow the same general sequence for most hypothesis tests.
+
+### 1. Define the question
+
+Start with a business-focused question.
+
+Examples:
+
+- Is the new process faster?
+- Is the defect rate higher on second shift?
+- Are the two suppliers performing differently?
+
+A vague question leads to a weak analysis. A clear question leads to a clear test.
+
+### 2. State the null and alternative hypotheses
+
+Write the hypotheses in words before worrying about software or formulas.
+
+The null hypothesis should always represent no difference or no change. The alternative should represent the difference the team wants to test.
+
+### 3. Set alpha
+
+Alpha is the accepted risk of making a Type I error.
+
+In most Six Sigma work, alpha is set at 0.05, which corresponds to a 95 percent confidence level.
+
+That means the team is willing to accept a 5 percent risk of rejecting the null hypothesis when it is actually true.
+
+### 4. Identify the type of data
+
+Before selecting a test, the team must identify the type of data it has.
+
+The two broad categories are:
+
+- Discrete data.
+- Continuous data.
+
+Discrete data is categorical, such as pass/fail, yes/no, or defective/not defective.
+
+Continuous data is measured numerically, such as time, weight, temperature, length, or volume.
+
+This distinction is critical because the data type determines which hypothesis tests are appropriate.
+
+### 5. Identify what is being compared
+
+The team must also know what kind of statistic it is testing.
+
+Common possibilities include:
+
+- A proportion.
+- A mean.
+- A median.
+- A variance or standard deviation.
+
+The team must also know whether it is comparing:
+
+- One sample to a target or historical value.
+- Two independent samples.
+- Two paired samples.
+- More than two groups.
+
+### 6. Check assumptions
+
+Before running the test, the team should make sure the method fits the data.
+
+Important checks may include:
+
+- Is the data random?
+- Is the sample size adequate?
+- Is the continuous data approximately normal?
+- Are the groups independent?
+- Are there major outliers?
+- Are the variances similar when required?
+
+If assumptions are not met, the team may need to switch to a different test.
+
+### 7. Run the test
+
+The calculations are usually run in software such as Minitab.
+
+Software performs the calculations, but it does not decide which test is correct. That responsibility still belongs to the analyst.
+
+### 8. Compare p-value to alpha
+
+Once the test is run, the team compares the p-value to alpha.
+
+- If the p-value is less than alpha, reject the null hypothesis.
+- If the p-value is greater than alpha, fail to reject the null hypothesis.
+
+This is the formal decision rule.
+
+### 9. Translate the result into business language
+
+The statistical decision is not the final output. The team must convert the result into language leaders and stakeholders can understand.
+
+Instead of saying only "the p-value was 0.031," the team should say something like:
+
+- The classroom's failure rate is statistically higher than the school average.
+- The new seeding method produced a statistically higher yield.
+- There is no statistically significant difference in task time between the two teams.
+
+That final sentence is what turns statistics into action.
+
+---
+
+## Understanding alpha, beta, and p-value
+
+These terms are central to hypothesis testing.
+
+### Alpha
+
+Alpha is the risk of a Type I error.
+
+A Type I error happens when the team rejects the null hypothesis even though it is actually true.
+
+In business terms, this means the team concludes that a change or difference exists when it really does not.
+
+In manufacturing, this can create waste because acceptable material might be rejected unnecessarily.
+
+### Beta
+
+Beta is the risk of a Type II error.
+
+A Type II error happens when the team fails to reject the null hypothesis even though it is actually false.
+
+In business terms, this means the team misses a real difference or a real opportunity for improvement.
+
+### P-value
+
+The p-value is the number used to decide whether the observed data provides enough evidence against the null hypothesis.
+
+A small p-value means the observed result would be unlikely if the null hypothesis were true.
+
+The decision rule is simple:
+
+- If p-value < alpha, reject the null hypothesis.
+- If p-value > alpha, fail to reject the null hypothesis.
+
+This does not prove absolute truth. It provides a structured way to judge evidence.
+
+---
+
+## Choosing the right test
+
+The hardest part of hypothesis testing is often not the calculation. It is choosing the correct test.
+
+The right test depends on:
+
+- The type of data.
+- The statistic being studied.
+- The number of groups or samples.
+- Whether the data is normal.
+- Whether the samples are paired or independent.
+
+Below is a practical roadmap.
+
+---
+
+## Tests for discrete data
+
+Discrete data is categorical. It usually shows up as counts, categories, or pass/fail style outcomes.
+
+Examples:
+
+- Defective or not defective.
+- Pass or fail.
+- Approve or reject.
+- Success or failure.
+
+When the team is testing discrete data, it is often testing a proportion.
+
+### 1-Proportion Test
+
+Use this test when comparing one sample proportion to a known, historical, or hypothesized proportion.
+
+Example question:
+Is the failure rate in this classroom higher than the school's normal failure rate of 20 percent?
+
+This is appropriate when there is one group and one target proportion.
+
+### 2-Proportion Test
+
+Use this test when comparing the proportions of two groups.
+
+Example question:
+Is the defect rate for Supplier A different from the defect rate for Supplier B?
+
+This is appropriate when there are two groups and the data is attribute-based.
+
+---
+
+## Tests for continuous data
+
+Continuous data is numeric and measured on a scale.
+
+Examples:
+
+- Time.
+- Temperature.
+- Weight.
+- Yield.
+- Length.
+- Diameter.
+
+For continuous data, the team often tests means, medians, or variance.
+
+### 1-Sample T Test
+
+Use this test when comparing the mean of one sample to a known or historical mean.
+
+Example question:
+Did the new seeding process increase average yield compared with the historical average?
+
+This is appropriate when:
+
+- There is one sample.
+- The focus is the mean.
+- The data is approximately normal.
+
+### 2-Sample T Test
+
+Use this test when comparing the means of two independent groups.
+
+Example question:
+Does Team A take longer than Team B to complete the same kind of task?
+
+This is appropriate when:
+
+- There are two independent samples.
+- The focus is the mean.
+- The data is approximately normal.
+
+### Paired T Test
+
+Use this test when the same units are measured twice, such as before and after a change.
+
+Example question:
+Did the setup change reduce cycle time for the same machine after implementation?
+
+This is appropriate when the observations are naturally paired.
+
+### 1-Variance or Chi-Square style test
+
+Use this when the question is about process variation or standard deviation.
+
+Example question:
+Did the process change reduce the standard deviation of wheel size?
+
+This is especially useful when variation itself is
